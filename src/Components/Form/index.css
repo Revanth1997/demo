@@ -1,0 +1,22 @@
+.address-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.address-input{
+    height: 30px;
+    width: 250px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.details-input{
+    height: 30px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.radio-container{
+    display: flex;
+}
